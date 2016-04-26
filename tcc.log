@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  25 APR 2016 18:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  25 APR 2016 21:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1040,17 +1040,7 @@ l.14 \imprimirfolhaderosto* {}
                                [1
 
 
-] (./fixos/listasAutomaticas.tex (./tcc.lof)pdfTeX warning (ext4): destination 
-with the same identifier (name{page.2}) has been already used, duplicate ignore
-d
-<to be read again> 
-                   \relax 
-l.3 \cleardoublepage
-                     [2] (./tcc.lot) [3
-
-] [4
-
-]) (./editaveis/abreviaturas.tex
+] (./fixos/listasAutomaticas.tex (./tcc.lof
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 2.
 
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
@@ -1078,83 +1068,113 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 2.
- [5
+)pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.3 \cleardoublepage
+                     [2] (./tcc.lot) [3
+
+] [4
+
+]) (./editaveis/abreviaturas.tex
+[5
 
 ] [6
 
-])
-(./fixos/indiceAutomatico.tex (./tcc.toc
+]) (./fixos/indiceAutomatico.tex (./tcc.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 29.
+(Font)              <14.4> on input line 37.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 29.
+(Font)              <10> on input line 37.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 29.
+(Font)              <7> on input line 37.
 ) [7] [8
 
-]) (./editaveis/conteudo.tex
-(./editaveis/introducao.tex) [9
+])
+(./editaveis/conteudo.tex (./editaveis/introducao.tex) [9
 
 ] [10
 
-] (./editaveis/abordagemER.tex) [11]
-[12
+]
+(./editaveis/abordagemER.tex
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 15.
+ (/usr/share/texmf/tex/latex/lm/omslmr.fd
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 15.
+ [11]
+<figuras/mps2.png, id=133, 399.4925pt x 200.75pt>
+File: figuras/mps2.png Graphic file (type png)
+ <use figuras/mps2.png>
+Package pdftex.def Info: figuras/mps2.png used on input line 44.
+(pdftex.def)             Requested size: 455.0pt x 228.65518pt.
 
-] (./editaveis/justificativa.tex) [13] [14
+[12] <figuras/MR-MPS2.png, id=140, 175.6161pt x 130.8087pt>
+File: figuras/MR-MPS2.png Graphic file (type png)
 
-] (./editaveis/processoER.tex)
-[15] [16
+<use figuras/MR-MPS2.png>
+Package pdftex.def Info: figuras/MR-MPS2.png used on input line 57.
+(pdftex.def)             Requested size: 455.0pt x 338.95087pt.
+ [13] [14]) [15] [16 <./figuras/mps2.png> <./figuras/MR-MPS2.png>] (./editaveis
+/justificativa.tex) [17
 
-] (./editaveis/elicitacao.tex) [17] [18
+] [18
 
 ]
-(./editaveis/gerenciamentoER.tex) [19] [20
+(./editaveis/processoER.tex) [19] [20
 
-] (./editaveis/planejamento.tex)
-[21] [22
+] (./editaveis/elicitacao.tex) [21]
+[22
+
+] (./editaveis/gerenciamentoER.tex) [23] [24
+
+] (./editaveis/planejamento.tex) [25] [26
 
 ] (./editaveis/ferramentasER.tex)) (./tcc.bbl (./tcc.brf)
 \tf@brf=\write5
 \openout5 = `tcc.brf'.
 
- [23] [24
+ [27]
+[28
 
 ]
 bibitemlist
 
 LaTeX Warning: Empty `thebibliography' environment on input line 8.
 
-) (./editaveis/apendices.tex [25] [26
+) (./editaveis/apendices.tex [29] [30
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
-[27
+[31
 
-] [28] [29
+] [32] [33
 
-] [30
+] [34
 
-]) (./editaveis/anexos.tex [31] [32
+]) (./editaveis/anexos.tex [35] [36
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
-[33
+[37
 
-] [34] [35
+] [38] [39
 
-] [36
+] [40
 
 ])
 No file tcc.ind.
 
 AED: lastpage setting LastPage
-[37]
+[41]
 \tf@lof=\write6
 \openout6 = `tcc.lof'.
 
@@ -1174,24 +1194,25 @@ Package rerunfilecheck Info: File `tcc.brf' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 27.
  ) 
 Here is how much of TeX's memory you used:
- 12180 strings out of 493304
- 177135 string characters out of 6139871
- 297387 words of memory out of 5000000
- 15281 multiletter control sequences out of 15000+600000
- 61254 words of font info for 48 fonts, out of 8000000 for 9000
+ 12253 strings out of 493304
+ 178087 string characters out of 6139871
+ 300507 words of memory out of 5000000
+ 15332 multiletter control sequences out of 15000+600000
+ 64043 words of font info for 49 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,13n,38p,220b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,13n,38p,823b,585s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-mathit.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/s
-hare/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/publi
-c/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/te
-xmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lms
-s12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fo
-nts/type1/public/lm/lmssbx10.pfb>
-Output written on tcc.pdf (39 pages, 275327 bytes).
+ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}</usr/s
+hare/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/publi
+c/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/t
+exmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lm
+r12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fo
+nts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10
+.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
+Output written on tcc.pdf (43 pages, 451074 bytes).
 PDF statistics:
- 331 PDF objects out of 1000 (max. 8388607)
- 272 compressed objects within 3 object streams
- 63 named destinations out of 1000 (max. 500000)
- 186 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 409 PDF objects out of 1000 (max. 8388607)
+ 340 compressed objects within 4 object streams
+ 77 named destinations out of 1000 (max. 500000)
+ 260 words of extra memory for PDF output out of 10000 (max. 10000000)
 
