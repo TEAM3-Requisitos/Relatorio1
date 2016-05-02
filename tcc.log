@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  1 MAY 2016 16:46
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  2 MAY 2016 13:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -907,10 +907,13 @@ LaTeX Info: Redefining \cite on input line 702.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/bold-extra/bold-extra.sty
 Package: bold-extra 2001/11/13 v0.1 Use fonts from cm/mf-extra/bold
-))
+)
 (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
 )
+(/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+))
 (./fixos/comandos.tex) (./fixos/novosComandos.tex) (./editaveis/informacoes.tex
 ) (./fixos/informacoes.tex) (./fixos/setup.tex
 Package color Info: Redefining color blue on input line 1.
@@ -1108,82 +1111,82 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 <figuras/SAF.png, id=134, 1606.0pt x 1203.49625pt>
 File: figuras/SAF.png Graphic file (type png)
  <use figuras/SAF.png>
-Package pdftex.def Info: figuras/SAF.png used on input line 32.
-(pdftex.def)             Requested size: 455.0pt x 340.96161pt.
+Package pdftex.def Info: figuras/SAF.png used on input line 33.
+(pdftex.def)             Requested size: 433.62581pt x 324.94833pt.
 
-<figuras/mps2.png, id=137, 399.4925pt x 200.75pt>
+[12 <./figuras/SAF.png>] <figuras/mps2.png, id=142, 399.4925pt x 200.75pt>
 File: figuras/mps2.png Graphic file (type png)
- <use figuras/mps2.png>
-Package pdftex.def Info: figuras/mps2.png used on input line 50.
-(pdftex.def)             Requested size: 399.49152pt x 200.7495pt.
 
-[12] <figuras/MR-MPS2.png, id=143, 175.6161pt x 130.8087pt>
+<use figuras/mps2.png>
+Package pdftex.def Info: figuras/mps2.png used on input line 53.
+(pdftex.def)             Requested size: 399.49152pt x 200.7495pt.
+ <figuras/MR-MPS2.png, id=144, 175.6161pt x 130.8087pt>
 File: figuras/MR-MPS2.png Graphic file (type png)
 
 <use figuras/MR-MPS2.png>
-Package pdftex.def Info: figuras/MR-MPS2.png used on input line 63.
-(pdftex.def)             Requested size: 455.0pt x 338.95087pt.
- [13] [14]) [15] [16 <./figuras/SAF.png> <./figuras/mps2.png>] [17 <./figuras/M
-R-MPS2.png>] [18
+Package pdftex.def Info: figuras/MR-MPS2.png used on input line 68.
+(pdftex.def)             Requested size: 386.35394pt x 287.778pt.
+ [13 <./figuras/mps2.png>] [14 <./figuras/MR-MPS2.png>] [15]) [16] (./editaveis
+/justificativa.tex) [17
 
-] (./editaveis/justificativa.tex)
-[19] [20
+] [18
 
-] (./editaveis/processoER.tex) [21] [22
+]
+(./editaveis/processoER.tex) [19] [20
 
 ] (./editaveis/elicitacao.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23])
-[24] (./editaveis/gerenciamentoER.tex) [25
+ [21])
+[22] (./editaveis/gerenciamentoER.tex) [23
 
-] [26
+] [24
 
-] (./editaveis/planejamento.tex) [27] [28
+] (./editaveis/planejamento.tex) [25] [26
 
 ] (./editaveis/ferramentasER.tex)) (./tcc.bbl (./tcc.brf)
 \tf@brf=\write5
 \openout5 = `tcc.brf'.
 
- [29]
-[30
+ [27]
+[28
 
 ]
 bibitemlist
 
 LaTeX Warning: Empty `thebibliography' environment on input line 8.
 
-) (./editaveis/apendices.tex [31] [32
+) (./editaveis/apendices.tex [29] [30
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
-[33
+[31
 
-] [34] [35
+] [32] [33
 
-] [36
+] [34
 
-]) (./editaveis/anexos.tex [37] [38
+]) (./editaveis/anexos.tex [35] [36
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
-[39
+[37
 
-] [40] [41
+] [38] [39
 
-] [42
+] [40
 
 ])
 No file tcc.ind.
 
 AED: lastpage setting LastPage
-[43]
+[41]
 \tf@lof=\write6
 \openout6 = `tcc.lof'.
 
@@ -1203,23 +1206,23 @@ Package rerunfilecheck Info: File `tcc.brf' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 27.
  ) 
 Here is how much of TeX's memory you used:
- 12264 strings out of 493304
- 178228 string characters out of 6139871
- 300584 words of memory out of 5000000
- 15338 multiletter control sequences out of 15000+600000
+ 12281 strings out of 493304
+ 178590 string characters out of 6139871
+ 299683 words of memory out of 5000000
+ 15353 multiletter control sequences out of 15000+600000
  64043 words of font info for 49 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,13n,38p,823b,581s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,13n,38p,823b,585s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/te
 xmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lm
 ssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on tcc.pdf (45 pages, 736118 bytes).
+Output written on tcc.pdf (43 pages, 735838 bytes).
 PDF statistics:
- 418 PDF objects out of 1000 (max. 8388607)
- 347 compressed objects within 4 object streams
- 81 named destinations out of 1000 (max. 500000)
+ 410 PDF objects out of 1000 (max. 8388607)
+ 341 compressed objects within 4 object streams
+ 79 named destinations out of 1000 (max. 500000)
  273 words of extra memory for PDF output out of 10000 (max. 10000000)
 
