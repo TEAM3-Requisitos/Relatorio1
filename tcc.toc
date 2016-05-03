@@ -40,6 +40,8 @@
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Planejamento do Projeto}}{35}{chapter.7}
 \contentsline {section}{\numberline {7.1}Cronograma}{35}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Cronograma - Primeira Entrega}{35}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Cronograma - Segunda Entrega}{35}{subsection.7.1.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase {Ferramentas de Gest\IeC {\~a}o de Requisitos}}{37}{chapter.8}
 \contentsline {section}{\numberline {8.1}An\IeC {\'a}lise de Ferramenta de Gest\IeC {\~a}o de Requisitos}{37}{section.8.1}
