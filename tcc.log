@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  3 MAY 2016 08:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  3 MAY 2016 08:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1087,15 +1087,16 @@ l.3 \cleardoublepage
 
 ]) (./fixos/indiceAutomatico.tex (./tcc.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 38.
+(Font)              <14.4> on input line 41.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 38.
+(Font)              <10> on input line 41.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 38.
-) [7] [8
+(Font)              <7> on input line 41.
 
-])
-(./editaveis/conteudo.tex (./editaveis/introducao.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7])
+[8]) (./editaveis/conteudo.tex (./editaveis/introducao.tex
 LaTeX Font Info:    Try loading font information for OMS+lmr on input line 11.
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
@@ -1105,89 +1106,96 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 11.
 ) [9
 
+
 ] [10]
 (./editaveis/abordagemER.tex [11
 
 ]
-<figuras/SAF.png, id=134, 1606.0pt x 1203.49625pt>
+<figuras/SAF.png, id=140, 1606.0pt x 1203.49625pt>
 File: figuras/SAF.png Graphic file (type png)
  <use figuras/SAF.png>
 Package pdftex.def Info: figuras/SAF.png used on input line 33.
 (pdftex.def)             Requested size: 433.62581pt x 324.94833pt.
 
-[12 <./figuras/SAF.png>] <figuras/mps2.png, id=142, 399.4925pt x 200.75pt>
+[12 <./figuras/SAF.png>] <figuras/mps2.png, id=148, 399.4925pt x 200.75pt>
 File: figuras/mps2.png Graphic file (type png)
 
 <use figuras/mps2.png>
 Package pdftex.def Info: figuras/mps2.png used on input line 53.
 (pdftex.def)             Requested size: 399.49152pt x 200.7495pt.
- <figuras/MR-MPS2.png, id=144, 175.6161pt x 130.8087pt>
+ <figuras/MR-MPS2.png, id=150, 175.6161pt x 130.8087pt>
 File: figuras/MR-MPS2.png Graphic file (type png)
 
 <use figuras/MR-MPS2.png>
 Package pdftex.def Info: figuras/MR-MPS2.png used on input line 68.
 (pdftex.def)             Requested size: 386.35394pt x 287.778pt.
  [13 <./figuras/mps2.png>] [14 <./figuras/MR-MPS2.png>] [15]) [16] (./editaveis
-/justificativa.tex) [17
+/justificativa.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] [18
+ [17
 
 ]
-(./editaveis/processoER.tex) [19] [20
+Underfull \vbox (badness 1226) has occurred while \output is active []
+
+ [18])
+[19] [20
+
+] (./editaveis/processoER.tex) [21] [22
 
 ] (./editaveis/elicitacao.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21])
-[22] (./editaveis/gerenciamentoER.tex) [23
+ [23])
+[24] (./editaveis/gerenciamentoER.tex) [25
 
-] [24
+] [26
 
-] (./editaveis/planejamento.tex) [25] [26
+] (./editaveis/planejamento.tex) [27] [28
 
 ] (./editaveis/ferramentasER.tex)) (./tcc.bbl (./tcc.brf)
 \tf@brf=\write5
 \openout5 = `tcc.brf'.
 
- [27]
-[28
+ [29]
+[30
 
 ]
 bibitemlist
 
 LaTeX Warning: Empty `thebibliography' environment on input line 8.
 
-) (./editaveis/apendices.tex [29] [30
+) (./editaveis/apendices.tex [31] [32
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
-[31
+[33
 
-] [32] [33
+] [34] [35
 
-] [34
+] [36
 
-]) (./editaveis/anexos.tex [35] [36
+]) (./editaveis/anexos.tex [37] [38
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
-[37
+[39
 
-] [38] [39
+] [40] [41
 
-] [40
+] [42
 
 ])
 No file tcc.ind.
 
 AED: lastpage setting LastPage
-[41]
+[43]
 \tf@lof=\write6
 \openout6 = `tcc.lof'.
 
@@ -1207,10 +1215,10 @@ Package rerunfilecheck Info: File `tcc.brf' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 27.
  ) 
 Here is how much of TeX's memory you used:
- 12281 strings out of 493304
- 178590 string characters out of 6139871
- 299683 words of memory out of 5000000
- 15353 multiletter control sequences out of 15000+600000
+ 12289 strings out of 493304
+ 178655 string characters out of 6139871
+ 300683 words of memory out of 5000000
+ 15356 multiletter control sequences out of 15000+600000
  64043 words of font info for 49 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  41i,13n,38p,823b,585s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1220,10 +1228,10 @@ hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/te
 xmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lm
 ssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on tcc.pdf (43 pages, 738880 bytes).
+Output written on tcc.pdf (45 pages, 744709 bytes).
 PDF statistics:
- 410 PDF objects out of 1000 (max. 8388607)
- 341 compressed objects within 4 object streams
- 79 named destinations out of 1000 (max. 500000)
- 273 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 433 PDF objects out of 1000 (max. 8388607)
+ 362 compressed objects within 4 object streams
+ 84 named destinations out of 1000 (max. 500000)
+ 297 words of extra memory for PDF output out of 10000 (max. 10000000)
 
