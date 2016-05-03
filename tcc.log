@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  3 MAY 2016 15:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  3 MAY 2016 15:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -926,46 +926,70 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 16.
 Writing index file tcc.idx 
 (./tcc.aux
 
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
 LaTeX Warning: Label `img:SAF' multiply defined.
 
 
-LaTeX Warning: Label `my-label' multiply defined.
+LaTeX Warning: Label `img:SAF' multiply defined.
 
 
-LaTeX Warning: Label `my-label' multiply defined.
+LaTeX Warning: Label `img:SAF' multiply defined.
 
 
-LaTeX Warning: Label `my-label' multiply defined.
+LaTeX Warning: Label `img:SAF' multiply defined.
 
 
-LaTeX Warning: Label `my-label' multiply defined.
+LaTeX Warning: Label `img:SAF' multiply defined.
 
 
-LaTeX Warning: Label `my-label' multiply defined.
+LaTeX Warning: Label `img:SAF' multiply defined.
 
 
-LaTeX Warning: Label `my-label' multiply defined.
+LaTeX Warning: Label `img:SAF' multiply defined.
 
 
-LaTeX Warning: Label `my-label' multiply defined.
+LaTeX Warning: Label `img:SAF' multiply defined.
 
 
-LaTeX Warning: Label `my-label' multiply defined.
-
-
-LaTeX Warning: Label `my-label' multiply defined.
-
-
-LaTeX Warning: Label `my-label' multiply defined.
-
-
-LaTeX Warning: Label `my-label' multiply defined.
-
-
-LaTeX Warning: Label `my-label' multiply defined.
-
-
-LaTeX Warning: Label `my-label' multiply defined.
+LaTeX Warning: Label `img:SAF' multiply defined.
 
 
 LaTeX Warning: Label `img:SAF' multiply defined.
@@ -1149,13 +1173,13 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 64.
 )
 [8]) (./editaveis/conteudo.tex (./editaveis/introducao.tex
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 11.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 13.
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 11.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 13.
 ) [9
 
 
@@ -1163,45 +1187,53 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (./editaveis/abordagemER.tex [11
 
 ]
-<figuras/SAF.png, id=228, 1606.0pt x 1203.49625pt>
+<figuras/SAF.png, id=246, 1606.0pt x 1203.49625pt>
 File: figuras/SAF.png Graphic file (type png)
  <use figuras/SAF.png>
-Package pdftex.def Info: figuras/SAF.png used on input line 33.
+Package pdftex.def Info: figuras/SAF.png used on input line 39.
 (pdftex.def)             Requested size: 433.62581pt x 324.94833pt.
 
-[12 <./figuras/SAF.png>] <figuras/mps2.png, id=236, 399.4925pt x 200.75pt>
+[12] [13 <./figuras/SAF.png>]
+<figuras/mps2.png, id=258, 399.4925pt x 200.75pt>
 File: figuras/mps2.png Graphic file (type png)
-
-<use figuras/mps2.png>
-Package pdftex.def Info: figuras/mps2.png used on input line 53.
+ <use figuras/mps2.png>
+Package pdftex.def Info: figuras/mps2.png used on input line 61.
 (pdftex.def)             Requested size: 399.49152pt x 200.7495pt.
- <figuras/MR-MPS2.png, id=238, 175.6161pt x 130.8087pt>
+
+<figuras/MR-MPS2.png, id=260, 175.6161pt x 130.8087pt>
 File: figuras/MR-MPS2.png Graphic file (type png)
 
 <use figuras/MR-MPS2.png>
-Package pdftex.def Info: figuras/MR-MPS2.png used on input line 68.
+Package pdftex.def Info: figuras/MR-MPS2.png used on input line 76.
 (pdftex.def)             Requested size: 386.35394pt x 287.778pt.
- [13 <./figuras/mps2.png>] [14 <./figuras/MR-MPS2.png>] [15]) [16] (./editaveis
-/justificativa.tex
+ [14 <./figuras/mps2.png> <./figuras/MR-MPS2.png>]
+[15] [16]) [17] [18
+
+] (./editaveis/justificativa.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17
-
-]
+ [19]
 Underfull \vbox (badness 1226) has occurred while \output is active []
 
- [18]
+ [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19])
-[20] (./editaveis/processoER.tex
-<figuras/Eletrojun.png, id=275, 875.52094pt x 831.85782pt>
+ [21])
+[22] (./editaveis/processoER.tex
+<figuras/Eletrojun.png, id=301, 875.52094pt x 831.85782pt>
 File: figuras/Eletrojun.png Graphic file (type png)
 
 <use figuras/Eletrojun.png>
 Package pdftex.def Info: figuras/Eletrojun.png used on input line 5.
-(pdftex.def)             Requested size: 236.39381pt x 224.60461pt.
+(pdftex.def)             Requested size: 481.53801pt x 457.52321pt.
 
+Overfull \hbox (26.53801pt too wide) in paragraph at lines 5--7
+ [][] 
+ []
+
+[23
+
+ <./figuras/Eletrojun.png>]
 Overfull \hbox (23.94234pt too wide) in paragraph at lines 54--63
  [][] 
  []
@@ -1211,9 +1243,7 @@ Overfull \hbox (72.63783pt too wide) in paragraph at lines 69--78
  [][] 
  []
 
-[21
-
- <./figuras/Eletrojun.png>]
+[24]
 Overfull \hbox (108.79713pt too wide) in paragraph at lines 98--107
  [][] 
  []
@@ -1223,7 +1253,7 @@ Overfull \hbox (235.89272pt too wide) in paragraph at lines 128--137
  [][] 
  []
 
-[22] [23]
+[25]
 Overfull \hbox (64.25235pt too wide) in paragraph at lines 171--180
  [][] 
  []
@@ -1238,103 +1268,193 @@ Overfull \hbox (111.83958pt too wide) in paragraph at lines 216--225
  [][] 
  []
 
-) [24] (./editaveis/elicitacao.tex
+) [26] [27] [28
+
+] (./editaveis/elicitacao.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25
-
-]
+ [29]
 Underfull \vbox (badness 1221) has occurred while \output is active []
 
- [26]
-[27] [28]) [29] [30] (./editaveis/gerenciamentoER.tex
+ [30]
+[31] [32]) [33] [34] (./editaveis/gerenciamentoER.tex
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 19.
 
-[31
+[35
 
-] [32] <figuras/Rastreabilidade.jpg, id=328, 470.75874pt x 437.635pt>
+] [36] <figuras/Rastreabilidade.jpg, id=363, 470.75874pt x 437.635pt>
 File: figuras/Rastreabilidade.jpg Graphic file (type jpg)
 
 <use figuras/Rastreabilidade.jpg>
 Package pdftex.def Info: figuras/Rastreabilidade.jpg used on input line 99.
-(pdftex.def)             Requested size: 127.10655pt x 118.16302pt.
-
-<figuras/rastrabilidadepre.jpg, id=329, 652.4375pt x 328.22626pt>
+(pdftex.def)             Requested size: 376.60751pt x 350.10847pt.
+ [37]
+<figuras/rastrabilidadepre.jpg, id=368, 652.4375pt x 328.22626pt>
 File: figuras/rastrabilidadepre.jpg Graphic file (type jpg)
 
 <use figuras/rastrabilidadepre.jpg>
 Package pdftex.def Info: figuras/rastrabilidadepre.jpg used on input line 111.
-(pdftex.def)             Requested size: 176.16048pt x 88.62227pt.
- [33 <./figuras/Rastreabilidade.jpg>]
-<figuras/T01.jpg, id=334, 1606.0pt x 1318.9275pt>
+(pdftex.def)             Requested size: 521.9507pt x 262.58136pt.
+
+Overfull \hbox (66.9507pt too wide) in paragraph at lines 111--113
+ [][] 
+ []
+
+[38 <./figuras/Rastreabilidade.jpg>]
+<figuras/T01.jpg, id=373, 1606.0pt x 1318.9275pt>
 File: figuras/T01.jpg Graphic file (type jpg)
  <use figuras/T01.jpg>
 Package pdftex.def Info: figuras/T01.jpg used on input line 126.
 (pdftex.def)             Requested size: 433.62581pt x 356.11519pt.
-)
-[34 <./figuras/rastrabilidadepre.jpg> <./figuras/T01.jpg>]
+
+[39 <./figuras/rastrabilidadepre.jpg>]) [40 <./figuras/T01.jpg>]
 (./editaveis/planejamento.tex
-<figuras/cron1.png, id=339, 903.375pt x 502.87875pt>
+<figuras/cron1.png, id=382, 903.375pt x 502.87875pt>
 File: figuras/cron1.png Graphic file (type png)
  <use figuras/cron1.png>
 Package pdftex.def Info: figuras/cron1.png used on input line 13.
-(pdftex.def)             Requested size: 243.9145pt x 135.77907pt.
+(pdftex.def)             Requested size: 451.6864pt x 251.43875pt.
 
-<figuras/cron2.png, id=340, 883.3pt x 570.13pt>
+<figuras/cron2.png, id=383, 883.3pt x 570.13pt>
 File: figuras/cron2.png Graphic file (type png)
  <use figuras/cron2.png>
 Package pdftex.def Info: figuras/cron2.png used on input line 24.
-(pdftex.def)             Requested size: 238.49419pt x 153.93715pt.
-)
-[35
+(pdftex.def)             Requested size: 441.64893pt x 285.0643pt.
 
- <./figuras/cron1.png (PNG copy)> <./figuras/cron2.png (PNG copy)>] [36
+[41
 
-]
-(./editaveis/ferramentasER.tex [37] [38] [39])) (./tcc.bbl (./tcc.brf)
+ <./figuras/cron1.png (PNG copy)>]) [42 <./figuras/cron2.png (PNG copy)>]
+(./editaveis/ferramentasER.tex
+<figuras/Code.jpg, id=393, 1922.18124pt x 555.07375pt>
+File: figuras/Code.jpg Graphic file (type jpg)
+ <use figuras/Code.jpg>
+Package pdftex.def Info: figuras/Code.jpg used on input line 20.
+(pdftex.def)             Requested size: 518.99588pt x 149.8719pt.
+
+Overfull \hbox (63.99588pt too wide) in paragraph at lines 20--22
+ [][] 
+ []
+
+[43
+
+] <figuras/Code01.jpg, id=398, 1910.13625pt x 954.56625pt>
+File: figuras/Code01.jpg Graphic file (type jpg)
+
+<use figuras/Code01.jpg>
+Package pdftex.def Info: figuras/Code01.jpg used on input line 30.
+(pdftex.def)             Requested size: 515.74368pt x 257.73633pt.
+
+Overfull \hbox (60.74368pt too wide) in paragraph at lines 30--32
+ [][] 
+ []
+
+<figuras/Code02.jpg, id=399, 1923.185pt x 941.5175pt>
+File: figuras/Code02.jpg Graphic file (type jpg)
+ <use figuras/Code02.jpg>
+Package pdftex.def Info: figuras/Code02.jpg used on input line 40.
+(pdftex.def)             Requested size: 384.63019pt x 188.30016pt.
+
+[44 <./figuras/Code.jpg> <./figuras/Code01.jpg>]
+<figuras/caliber_1.png, id=404, 1028.34187pt x 548.80031pt>
+File: figuras/caliber_1.png Graphic file (type png)
+
+<use figuras/caliber_1.png>
+Package pdftex.def Info: figuras/caliber_1.png used on input line 54.
+(pdftex.def)             Requested size: 411.32947pt x 219.51622pt.
+
+<figuras/caliber_2.png, id=405, 1028.34187pt x 548.80031pt>
+File: figuras/caliber_2.png Graphic file (type png)
+
+<use figuras/caliber_2.png>
+Package pdftex.def Info: figuras/caliber_2.png used on input line 63.
+(pdftex.def)             Requested size: 514.16968pt x 274.39948pt.
+
+Overfull \hbox (59.16968pt too wide) in paragraph at lines 63--65
+ [][] 
+ []
+
+[45 <./figuras/Code02.jpg> <./figuras/caliber_1.png>]
+<figuras/caliber_3.png, id=411, 1028.34187pt x 549.55313pt>
+File: figuras/caliber_3.png Graphic file (type png)
+
+<use figuras/caliber_3.png>
+Package pdftex.def Info: figuras/caliber_3.png used on input line 72.
+(pdftex.def)             Requested size: 411.32947pt x 219.81735pt.
+ [46 <./figuras/caliber_2.png> <./figuras/caliber_3.png>] <figuras/trace_1.png,
+ id=419, 1014.03844pt x 338.76563pt>
+File: figuras/trace_1.png Graphic file (type png)
+
+<use figuras/trace_1.png>
+Package pdftex.def Info: figuras/trace_1.png used on input line 86.
+(pdftex.def)             Requested size: 507.01797pt x 169.38239pt.
+
+Overfull \hbox (52.01797pt too wide) in paragraph at lines 86--88
+ [][] 
+ []
+
+<figuras/trace_2.png, id=420, 1028.34187pt x 465.99094pt>
+File: figuras/trace_2.png Graphic file (type png)
+
+<use figuras/trace_2.png>
+Package pdftex.def Info: figuras/trace_2.png used on input line 95.
+(pdftex.def)             Requested size: 411.32947pt x 186.39307pt.
+
+<figuras/trace_3.png, id=421, 1028.34187pt x 469.00218pt>
+File: figuras/trace_3.png Graphic file (type png)
+
+<use figuras/trace_3.png>
+Package pdftex.def Info: figuras/trace_3.png used on input line 104.
+(pdftex.def)             Requested size: 514.16968pt x 234.50052pt.
+
+Overfull \hbox (59.16968pt too wide) in paragraph at lines 104--106
+ [][] 
+ []
+
+[47 <./figuras/trace_1.png> <./figuras/trace_2.png>] [48 <./figuras/trace_3.png
+>] [49])) (./tcc.bbl (./tcc.brf)
 \tf@brf=\write5
 \openout5 = `tcc.brf'.
 
- [40]
+ [50]
 bibitemlist
 
 LaTeX Warning: Empty `thebibliography' environment on input line 8.
 
-) (./editaveis/apendices.tex [41
-
-] [42
-
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 3.
-
-[43
-
-] [44] [45
-
-] [46
-
-]) (./editaveis/anexos.tex [47] [48
-
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 3.
-
-[49
-
-] [50] [51
+) (./editaveis/apendices.tex [51
 
 ] [52
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 3.
+
+[53
+
+] [54] [55
+
+] [56
+
+]) (./editaveis/anexos.tex [57] [58
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 3.
+
+[59
+
+] [60] [61
+
+] [62
 
 ])
 No file tcc.ind.
 
 AED: lastpage setting LastPage
-[53]
+[63]
 \tf@lof=\write6
 \openout6 = `tcc.lof'.
 
@@ -1358,13 +1478,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 27.
  ) 
 Here is how much of TeX's memory you used:
- 12410 strings out of 493304
- 180327 string characters out of 6139871
- 304971 words of memory out of 5000000
- 15413 multiletter control sequences out of 15000+600000
+ 12475 strings out of 493304
+ 181478 string characters out of 6139871
+ 302074 words of memory out of 5000000
+ 15450 multiletter control sequences out of 15000+600000
  71076 words of font info for 51 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,13n,38p,1074b,585s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,13n,38p,1074b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
@@ -1373,10 +1493,10 @@ xmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lm
 ss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/f
 onts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy1
 0.pfb>
-Output written on tcc.pdf (55 pages, 1721136 bytes).
+Output written on tcc.pdf (65 pages, 2912112 bytes).
 PDF statistics:
- 657 PDF objects out of 1000 (max. 8388607)
- 565 compressed objects within 6 object streams
- 137 named destinations out of 1000 (max. 500000)
- 511 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 736 PDF objects out of 1000 (max. 8388607)
+ 618 compressed objects within 7 object streams
+ 156 named destinations out of 1000 (max. 500000)
+ 556 words of extra memory for PDF output out of 10000 (max. 10000000)
 
