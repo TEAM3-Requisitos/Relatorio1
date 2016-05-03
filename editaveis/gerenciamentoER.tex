@@ -16,7 +16,16 @@ Buscando uma melhor forma de gerenciar, foram definidos os atributos que cada re
 
 Os requisitos possuirão um código único que será sua identificação.
 
-TABELAAAAA
+\begin{table}[]
+\centering
+\caption{Identificação dos requisitos}
+\label{my-label}
+\begin{tabular}{|l|l|}
+E & Épico \\ \hline
+F & Feature \\ \hline
+H & User Story \\ \hline
+\end{tabular}
+\end{table}
 
 
 2 - Status
@@ -61,4 +70,60 @@ Requisitos que apresentam alguma possibilidade de risco para o sistema durante o
 
 Os requisitos seguirão este padrão:
 
-TABELAAA
+\begin{table}[\htp]
+\centering
+\caption{Atributos do Requisito}
+\label{my-label}
+\begin{tabular}{|l|l|}
+\hline
+Origem      & E, F ou H                                         \\ \hline
+Status    & Completo, em progresso ou não iniciado. \\ \hline
+Prioridade & Alta, média ou baixa.\\ \hline
+Complexidade & Alta, média ou baixa\\ \hline
+Risco  & Alto, médio ou baixo.\\ \hline
+\end{tabular}
+\end{table}
+
+\section{Rastreabilidade de requisitos}
+
+Segundo Sommerville, “A rastreabilidade é a propriedade de uma especificação de requisitos que reflete a facilidade de encontrar requisitos relacionados”. No conceito de de requisitos de software, diz respeito a capacidade de se acompanhar um requisito em todo seu ciclo de vida, permitindo que se encontre artefatos e outros requisitos que estejam alinhados de alguma forma. É essencial a identificação da composição dos requisitos, das suas dependências entre outros, dos requisitos conflitantes e ainda sua origem e seus interessados, além da identificação de em quais artefatos produzidos o requisito é retratado (27).
+Propriedade básica que deve estar presente em todos os tipos de rastreabilidade, de forma a capacitar o completo entendimento das funções, é a capacidade de rastrear para frente (Forwards) e para trás (Backwards), tal que o primeiro permite o rastreio de um requisito até seus refinamentos e  o segundo permite o rastreio dos refinamentos até a sua origem. (28)
+Sobre os tipos de rastreabilidade, existem basicamente duas classificações gerais: horizontal e vertical e pré e pós-rastreabilidade. (29)
+A rastreabilidade horizontal é entre diferentes versões ou variações de requisitos, ou outros artefatos, em uma fase do ciclo de vida particular. A rastreabilidade vertical é realizada entre requisitos e artefatos produzidos pelo processo de desenvolvimento ao longo do ciclo de vida do projeto.
+Uma visão simplificada sobre os tipos de rastreabilidade é apresentada na Figura a seguir (30):
+
+\FloatBarrier
+\begin{figure}[!htpd]
+		\centering
+		\caption{SAF}
+		\includegraphics[scale=0.27]{figuras/Rastreabilidade}
+		\label{img:SAF}
+\end{figure}
+\FloatBarrier
+
+A segunda classe de rastreabilidade trata da pré-rastreabilidade, que está concentrada no ciclo de vida dos requisitos antes de serem incluídos no processo de especificação, e a pós-rastreabilidade, que está concentrada no ciclo de vida dos requisitos após serem incluídos na especificação de requisitos. A imagem a seguir ilustra a pré e pós-rastreabilidade (30):
+
+
+\FloatBarrier
+\begin{figure}[!htpd]
+		\centering
+		\caption{SAF}
+		\includegraphics[scale=0.27]{figuras/rastrabilidadepre}
+		\label{img:SAF}
+\end{figure}
+\FloatBarrier
+
+Tomando por base os conceitos citados, foi adotado pelo grupo um modelo de rastreabilidade bi-direcional, que visa garantir o completo rastreio desde os Temas de Investimento até as Tarefas de cada História. Tais requisitos serão identificados da seguinte forma:
+
+TABELA
+
+A representação em mapa destes requisitos é dada da seguinte forma:
+
+\FloatBarrier
+\begin{figure}[!htpd]
+		\centering
+		\caption{SAF}
+		\includegraphics[scale=0.27]{figuras/T01}
+		\label{img:SAF}
+\end{figure}
+\FloatBarrier

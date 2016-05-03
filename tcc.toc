@@ -25,17 +25,18 @@
 \contentsline {section}{\numberline {4.2}Programa}{21}{section.4.2}
 \contentsline {section}{\numberline {4.3}Time}{22}{section.4.3}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Elicita\IeC {\c c}\IeC {\~a}o de Requisitos}}{27}{chapter.5}
-\contentsline {section}{\numberline {5.1}T\IeC {\'e}cnicas de elicita\IeC {\c c}\IeC {\~a}o de requisitos}{28}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Levantamento orientado a ponto de vista}{28}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Prototipagem}{29}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}JAD}{29}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}Brainstorming}{30}{subsection.5.1.4}
-\contentsline {subsection}{\numberline {5.1.5}Entrevista}{30}{subsection.5.1.5}
-\contentsline {section}{\numberline {5.2}Elicita\IeC {\c c}\IeC {\~a}o Escolhida}{31}{section.5.2}
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Elicita\IeC {\c c}\IeC {\~a}o de Requisitos}}{25}{chapter.5}
+\contentsline {section}{\numberline {5.1}T\IeC {\'e}cnicas de elicita\IeC {\c c}\IeC {\~a}o de requisitos}{26}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Levantamento orientado a ponto de vista}{26}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Prototipagem}{27}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}JAD}{27}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Brainstorming}{28}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}Entrevista}{28}{subsection.5.1.5}
+\contentsline {section}{\numberline {5.2}Elicita\IeC {\c c}\IeC {\~a}o Escolhida}{29}{section.5.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Gerenciamento de Requisitos}}{33}{chapter.6}
-\contentsline {section}{\numberline {6.1}Atributos de Requisitos}{33}{section.6.1}
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Gerenciamento de Requisitos}}{31}{chapter.6}
+\contentsline {section}{\numberline {6.1}Atributos de Requisitos}{31}{section.6.1}
+\contentsline {section}{\numberline {6.2}Rastreabilidade de requisitos}{32}{section.6.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Planejamento do Projeto}}{35}{chapter.7}
 \contentsline {section}{\numberline {7.1}Cronograma}{35}{section.7.1}
