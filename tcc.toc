@@ -48,38 +48,38 @@
 \contentsline {subsection}{\numberline {8.1.1}Ferramentas}{43}{subsection.8.1.1}
 \contentsline {subsection}{\numberline {8.1.2}Crit\IeC {\'e}rios}{48}{subsection.8.1.2}
 \contentsline {subsection}{\numberline {8.1.3}Descri\IeC {\c c}\IeC {\~a}o dos Crit\IeC {\'e}rios}{48}{subsection.8.1.3}
-\contentsline {subsubsection}{\numberline {8.1.3.1}Usabilidade}{48}{subsubsection.8.1.3.1}
+\contentsline {subsubsection}{\numberline {8.1.3.1}Usabilidade}{49}{subsubsection.8.1.3.1}
 \contentsline {subsubsection}{\numberline {8.1.3.2}Rastreabilidade}{49}{subsubsection.8.1.3.2}
 \contentsline {subsubsection}{\numberline {8.1.3.3}Gest\IeC {\~a}o de Mudan\IeC {\c c}as}{49}{subsubsection.8.1.3.3}
-\contentsline {subsubsection}{\numberline {8.1.3.4}Flexibilidade e Compatibilidade}{49}{subsubsection.8.1.3.4}
+\contentsline {subsubsection}{\numberline {8.1.3.4}Flexibilidade e Compatibilidade}{50}{subsubsection.8.1.3.4}
 \contentsline {subsubsection}{\numberline {8.1.3.5}Licen\IeC {\c c}a}{50}{subsubsection.8.1.3.5}
 \contentsline {subsection}{\numberline {8.1.4}Pontua\IeC {\c c}\IeC {\~a}o dos Crit\IeC {\'e}rios}{50}{subsection.8.1.4}
 \contentsline {subsection}{\numberline {8.1.5}Ferramenta Escolhida}{50}{subsection.8.1.5}
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{Refer\^encias}{51}{section*.6}
+\contentsline {chapter}{Refer\^encias}{53}{section*.6}
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
 \setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
 \cftinsert {A}
-\contentsline {part}{\uppercase {Ap\^endices}}{53}{section*.7}
+\contentsline {part}{\uppercase {Ap\^endices}}{55}{section*.7}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Primeiro Ap\IeC {\^e}ndice}}{55}{appendix.A}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Primeiro Ap\IeC {\^e}ndice}}{57}{appendix.A}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Segundo Ap\IeC {\^e}ndice}}{57}{appendix.B}
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Segundo Ap\IeC {\^e}ndice}}{59}{appendix.B}
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
 \setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
 \cftinsert {A}
-\contentsline {part}{\uppercase {Anexos}}{59}{section*.8}
+\contentsline {part}{\uppercase {Anexos}}{61}{section*.8}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Primeiro Anexo}}{61}{appendix.anexochapback.1}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Primeiro Anexo}}{63}{appendix.anexochapback.1}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Segundo Anexo}}{63}{appendix.anexochapback.2}
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Segundo Anexo}}{65}{appendix.anexochapback.2}

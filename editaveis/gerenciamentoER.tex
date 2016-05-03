@@ -87,17 +87,20 @@ Risco  & Alto, médio ou baixo.\\ \hline
 \section{Rastreabilidade de requisitos}
 
 Segundo Sommerville, “A rastreabilidade é a propriedade de uma especificação de requisitos que reflete a facilidade de encontrar requisitos relacionados”. No conceito de de requisitos de software, diz respeito a capacidade de se acompanhar um requisito em todo seu ciclo de vida, permitindo que se encontre artefatos e outros requisitos que estejam alinhados de alguma forma. É essencial a identificação da composição dos requisitos, das suas dependências entre outros, dos requisitos conflitantes e ainda sua origem e seus interessados, além da identificação de em quais artefatos produzidos o requisito é retratado (27).
+
 Propriedade básica que deve estar presente em todos os tipos de rastreabilidade, de forma a capacitar o completo entendimento das funções, é a capacidade de rastrear para frente (Forwards) e para trás (Backwards), tal que o primeiro permite o rastreio de um requisito até seus refinamentos e  o segundo permite o rastreio dos refinamentos até a sua origem. (28)
+
 Sobre os tipos de rastreabilidade, existem basicamente duas classificações gerais: horizontal e vertical e pré e pós-rastreabilidade. (29)
+
 A rastreabilidade horizontal é entre diferentes versões ou variações de requisitos, ou outros artefatos, em uma fase do ciclo de vida particular. A rastreabilidade vertical é realizada entre requisitos e artefatos produzidos pelo processo de desenvolvimento ao longo do ciclo de vida do projeto.
 Uma visão simplificada sobre os tipos de rastreabilidade é apresentada na Figura a seguir (30):
 
 \FloatBarrier
 \begin{figure}[!htpd]
 		\centering
-		\caption{Rastreabilidade}
 		\includegraphics[scale=0.8]{figuras/Rastreabilidade}
 		\label{img:SAF}
+		\caption{Rastreabilidade}
 \end{figure}
 \FloatBarrier
 
@@ -107,23 +110,36 @@ A segunda classe de rastreabilidade trata da pré-rastreabilidade, que está con
 \FloatBarrier
 \begin{figure}[!htpd]
 		\centering
-		\caption{Pré-rastreabilidade}
 		\includegraphics[scale=0.8]{figuras/rastrabilidadepre}
 		\label{img:SAF}
+		\caption{Pré-rastreabilidade}
 \end{figure}
 \FloatBarrier
 
 Tomando por base os conceitos citados, foi adotado pelo grupo um modelo de rastreabilidade bi-direcional, que visa garantir o completo rastreio desde os Temas de Investimento até as Tarefas de cada História. Tais requisitos serão identificados da seguinte forma:
 
-TABELA
+\begin{table}[\htp]
+\centering
+\caption{Rastreabilidade}
+\label{my-label}
+\begin{tabular}{|l|l|l|}
+Sigla & Descrição & Exemplo \\ \hline
+T & Tema de Investimento & T01 \\ \hline
+T & Tema de Investimento & T01 \\ \hline
+E & Épico & T02E03 \\ \hline
+F & Feature & T01E02F05 \\ \hline
+H & História & T01E02F05H12 \\ \hline
+TR & Tarefa & T01E02F05H12TR09 \\ \hline
+\end{tabular}
+\end{table}
 
 A representação em mapa destes requisitos é dada da seguinte forma:
 
 \FloatBarrier
 \begin{figure}[!htpd]
 		\centering
-		\caption{SAF}
 		\includegraphics[scale=0.27]{figuras/T01}
 		\label{img:SAF}
+		\caption{Mapa Requisitos}
 \end{figure}
 \FloatBarrier
