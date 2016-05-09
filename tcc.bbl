@@ -8,13 +8,13 @@
 \bibitem[BOEHM 2002]{boehm2002}
 \abntrefinfo{BOEHM}{BOEHM}{2002}
 {BOEHM, B. Balancing agility and discipline.
-Boston, 2002.}
+Addison-Wesley, Boston, 2002.}
 
-\bibitem[Lopes]{paulo}
-\abntrefinfo{Lopes}{LOPES}{}
-{LOPES, P. S. N.~D. \emph{Uma Taxonomia da Pesquisa na Área de Engenharia de
+\bibitem[LOPES]{paulo}
+\abntrefinfo{LOPES}{LOPES}{}
+{LOPES, P. \emph{Uma Taxonomia da Pesquisa na Área de Engenharia de
   Requisitos}.
-Accessed: 2016-04.
+Acesso: 2016-04.
 Dispon{\'\i}vel em:
   \url{https://books.google.com.br/books/about/Uma\_taxonomia\_da\_pesquisa\_na\_\%C3\%A1rea\_de\_en.html?id=SaQsHAAACAAJ&redir\_esc=y}.}
 
@@ -22,15 +22,20 @@ Dispon{\'\i}vel em:
 \abntrefinfo{MELLO}{MELLO}{}
 {MELLO, M. \emph{Um Caminho Seguro para o Processo de Desenvolvimento - SAFe
   (Scaled Agile Framework)}.
-Accessed: 2016-04.
+Acesso: 2016-04.
 Dispon{\'\i}vel em:
   \url{https://www.ibm.com/developerworks/community/blogs/rationalbrasil/entry/um\_caminho\_seguro\_para\_o\_processo\_de\_desenvolvimento\_safe\_scaled\_agile\_framework?lang=en}.}
 
-\bibitem[T 2003]{Poppendieck}
-\abntrefinfo{T}{T}{2003}
-{T, P.~M. P. Lean software development: An agile toolkit for software
-  development managers.
-London UK, 2003.}
+\bibitem[Modelos de Maturidade na Gestão de Projetos]{revistaER}
+\abntrefinfo{Modelos\ldots}{MODELOS\ldots}{}
+{MODELOS de Maturidade na Gestão de Projetos. Revista Engenharia de Software
+  edição 18. Accessed: 2016-04. Dispon{\'\i}vel em:
+  \url{http://www.devmedia.com.br/artigo-engenharia-de-software-18-modelos-de-maturidade-na-gestao-de-projetos/14804\#ixzz465UEA2zZ}.}
+
+\bibitem[Poppendieck e Poppendieck 2003]{Poppendieck}
+\abntrefinfo{Poppendieck e Poppendieck}{POPPENDIECK; POPPENDIECK}{2003}
+{POPPENDIECK, T.; POPPENDIECK, M. \emph{Lean software development: An agile
+  toolkit for software development managers}. London UK: Addison-Wesley, 2003.}
 
 \bibitem[VIEIRA 2003]{vieiraM}
 \abntrefinfo{VIEIRA}{VIEIRA}{2003}
